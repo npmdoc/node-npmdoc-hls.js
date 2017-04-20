@@ -1,139 +1,139 @@
 <svg height="2174" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2174" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 18:34:01 +0000  4076118 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 18:34:01 +0000     1338 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 18:34:01 +0000    11659 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 18:34:01 +0000   633543 bytes  dist/hls.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 18:34:01 +0000   811315 bytes  dist/hls.js.map</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 18:34:01 +0000   476308 bytes  dist/hls.light.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 18:34:01 +0000   602160 bytes  dist/hls.light.js.map</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 18:34:01 +0000   162804 bytes  dist/hls.light.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 18:34:01 +0000   220168 bytes  dist/hls.min.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 18:34:01 +0000     6339 bytes  lib/config.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 18:34:01 +0000    21392 bytes  lib/controller/abr-controller.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 18:34:01 +0000    40774 bytes  lib/controller/audio-stream-controller.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 18:34:01 +0000     8564 bytes  lib/controller/audio-track-controller.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 18:34:01 +0000    27050 bytes  lib/controller/buffer-controller.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 18:34:01 +0000     7109 bytes  lib/controller/cap-level-controller.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 18:34:01 +0000     6204 bytes  lib/controller/fps-controller.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 18:34:01 +0000    17483 bytes  lib/controller/level-controller.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 18:34:01 +0000    74404 bytes  lib/controller/stream-controller.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 18:34:01 +0000     7225 bytes  lib/controller/subtitle-stream-controller.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 18:34:01 +0000     8860 bytes  lib/controller/subtitle-track-controller.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-20 18:34:01 +0000    14411 bytes  lib/controller/timeline-controller.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-20 18:34:01 +0000     1198 bytes  lib/crypt/aes-crypto.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-20 18:34:01 +0000    10329 bytes  lib/crypt/aes-decryptor.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-20 18:34:01 +0000     4068 bytes  lib/crypt/decrypter.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-20 18:34:01 +0000     1222 bytes  lib/crypt/fast-aes-key.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-20 18:34:01 +0000     6196 bytes  lib/demux/aacdemuxer.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-20 18:34:01 +0000     5613 bytes  lib/demux/adts.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-20 18:34:01 +0000     7187 bytes  lib/demux/demuxer-inline.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-20 18:34:01 +0000     3601 bytes  lib/demux/demuxer-worker.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-20 18:34:01 +0000     7658 bytes  lib/demux/demuxer.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-20 18:34:01 +0000    12785 bytes  lib/demux/exp-golomb.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-20 18:34:01 +0000     5907 bytes  lib/demux/id3.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-20 18:34:01 +0000     9475 bytes  lib/demux/mp4demuxer.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-20 18:34:01 +0000     6411 bytes  lib/demux/sample-aes.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-20 18:34:01 +0000    46369 bytes  lib/demux/tsdemuxer.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-20 18:34:01 +0000     4406 bytes  lib/errors.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-20 18:34:01 +0000     6163 bytes  lib/event-handler.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-20 18:34:01 +0000     8541 bytes  lib/events.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-20 18:34:01 +0000     4079 bytes  lib/helper/aac.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-20 18:34:01 +0000     3260 bytes  lib/helper/buffer-helper.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-20 18:34:01 +0000     5231 bytes  lib/helper/level-helper.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-20 18:34:01 +0000    17027 bytes  lib/hls.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-20 18:34:01 +0000      239 bytes  lib/index.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-20 18:34:01 +0000     6618 bytes  lib/loader/fragment-loader.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-20 18:34:01 +0000     6511 bytes  lib/loader/key-loader.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-20 18:34:01 +0000    25698 bytes  lib/loader/playlist-loader.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-20 18:34:01 +0000     3047 bytes  lib/remux/dummy-remuxer.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-20 18:34:01 +0000    20431 bytes  lib/remux/mp4-generator.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-20 18:34:01 +0000    35134 bytes  lib/remux/mp4-remuxer.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-20 18:34:01 +0000     3278 bytes  lib/remux/passthrough-remuxer.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-20 18:34:01 +0000     3472 bytes  lib/utils/attr-list.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-20 18:34:01 +0000     1488 bytes  lib/utils/binary-search.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-20 18:34:01 +0000    46065 bytes  lib/utils/cea-608-parser.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-20 18:34:01 +0000     1815 bytes  lib/utils/cues.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-20 18:34:01 +0000     6305 bytes  lib/utils/ewma-bandwidth-estimator.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-20 18:34:01 +0000     2034 bytes  lib/utils/ewma.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-20 18:34:01 +0000     3312 bytes  lib/utils/fetch-loader.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-20 18:34:01 +0000      328 bytes  lib/utils/hex.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-20 18:34:01 +0000     2343 bytes  lib/utils/logger.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-20 18:34:01 +0000      322 bytes  lib/utils/timeRanges.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-20 18:34:01 +0000     7969 bytes  lib/utils/vttcue.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-20 18:34:01 +0000    13401 bytes  lib/utils/vttparser.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-20 18:34:01 +0000     6006 bytes  lib/utils/webvtt-parser.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-20 18:34:01 +0000     7612 bytes  lib/utils/xhr-loader.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-20 18:34:01 +0000     3313 bytes  package.json</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-20 18:34:01 +0000      730 bytes  scripts/travis.sh</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-20 18:34:01 +0000     5967 bytes  src/config.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-20 18:34:01 +0000    15853 bytes  src/controller/abr-controller.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-20 18:34:01 +0000    33625 bytes  src/controller/audio-stream-controller.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-20 18:34:01 +0000     4564 bytes  src/controller/audio-track-controller.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-20 18:34:01 +0000    21114 bytes  src/controller/buffer-controller.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-20 18:34:01 +0000     3338 bytes  src/controller/cap-level-controller.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-20 18:34:01 +0000     2816 bytes  src/controller/fps-controller.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-20 18:34:01 +0000    12626 bytes  src/controller/level-controller.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-20 18:34:01 +0000    64351 bytes  src/controller/stream-controller.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-20 18:34:01 +0000     3308 bytes  src/controller/subtitle-stream-controller.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-20 18:34:01 +0000     4798 bytes  src/controller/subtitle-track-controller.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-20 18:34:01 +0000    10097 bytes  src/controller/timeline-controller.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-20 18:34:01 +0000      219 bytes  src/crypt/aes-crypto.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-20 18:34:01 +0000     8613 bytes  src/crypt/aes-decryptor.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-20 18:34:01 +0000     2539 bytes  src/crypt/decrypter.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-20 18:34:01 +0000      249 bytes  src/crypt/fast-aes-key.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-20 18:34:01 +0000     3662 bytes  src/demux/aacdemuxer.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-20 18:34:01 +0000     5688 bytes  src/demux/adts.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-20 18:34:01 +0000     4288 bytes  src/demux/demuxer-inline.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-20 18:34:01 +0000     2750 bytes  src/demux/demuxer-worker.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-20 18:34:01 +0000     5489 bytes  src/demux/demuxer.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-20 18:34:01 +0000     9290 bytes  src/demux/exp-golomb.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-20 18:34:01 +0000     3882 bytes  src/demux/id3.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-20 18:34:01 +0000     6731 bytes  src/demux/mp4demuxer.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-20 18:34:01 +0000     3650 bytes  src/demux/sample-aes.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-20 18:34:01 +0000    36800 bytes  src/demux/tsdemuxer.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-20 18:34:01 +0000     4303 bytes  src/errors.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-20 18:34:01 +0000     1963 bytes  src/event-handler.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-20 18:34:01 +0000     8527 bytes  src/events.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-20 18:34:01 +0000     2873 bytes  src/helper/aac.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-20 18:34:01 +0000     3162 bytes  src/helper/buffer-helper.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-20 18:34:01 +0000     5078 bytes  src/helper/level-helper.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-20 18:34:01 +0000    12989 bytes  src/hls.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-20 18:34:01 +0000      225 bytes  src/index.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-20 18:34:01 +0000     2976 bytes  src/loader/fragment-loader.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-20 18:34:01 +0000     3011 bytes  src/loader/key-loader.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-20 18:34:01 +0000    19546 bytes  src/loader/playlist-loader.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-20 18:34:01 +0000     1625 bytes  src/remux/dummy-remuxer.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-20 18:34:01 +0000    19965 bytes  src/remux/mp4-generator.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-20 18:34:01 +0000    30110 bytes  src/remux/mp4-remuxer.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-20 18:34:01 +0000      798 bytes  src/remux/passthrough-remuxer.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-20 18:34:01 +0000     2085 bytes  src/utils/attr-list.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-20 18:34:01 +0000     1513 bytes  src/utils/binary-search.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-20 18:34:01 +0000    37567 bytes  src/utils/cea-608-parser.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-20 18:34:01 +0000     1882 bytes  src/utils/cues.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-20 18:34:01 +0000     1560 bytes  src/utils/ewma-bandwidth-estimator.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-20 18:34:01 +0000      968 bytes  src/utils/ewma.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-20 18:34:01 +0000     2171 bytes  src/utils/fetch-loader.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-20 18:34:01 +0000      300 bytes  src/utils/hex.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-20 18:34:01 +0000     1666 bytes  src/utils/logger.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-20 18:34:01 +0000      290 bytes  src/utils/timeRanges.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-20 18:34:01 +0000     7798 bytes  src/utils/vttcue.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-20 18:34:01 +0000    13057 bytes  src/utils/vttparser.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-20 18:34:01 +0000     5769 bytes  src/utils/webvtt-parser.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-20 18:34:01 +0000     4931 bytes  src/utils/xhr-loader.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-20 18:34:01 +0000     4326 bytes  tests/functional/auto/hlsjs.html</tspan>
-<tspan x="10" y="1978">122.  2017-04-20 18:34:01 +0000     6937 bytes  tests/functional/auto/hlsjs.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-20 18:34:01 +0000     2110 bytes  tests/functional/issues/617.html</tspan>
-<tspan x="10" y="2010">124.  2017-04-20 18:34:01 +0000     1362 bytes  tests/functional/multiple/index.html</tspan>
-<tspan x="10" y="2026">125.  2017-04-20 18:34:01 +0000     1912 bytes  tests/functional/streams.json</tspan>
-<tspan x="10" y="2042">126.  2017-04-20 18:34:01 +0000     1105 bytes  tests/unit/controller/abr-controller.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-20 18:34:01 +0000     1861 bytes  tests/unit/controller/ewma-bandwidth-estimator.j\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 18:35:09 +0000  4076118 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 18:35:09 +0000     1338 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 18:35:09 +0000    11659 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 18:35:09 +0000   633543 bytes  dist/hls.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 18:35:09 +0000   811315 bytes  dist/hls.js.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 18:35:09 +0000   476308 bytes  dist/hls.light.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 18:35:09 +0000   602160 bytes  dist/hls.light.js.map</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 18:35:09 +0000   162804 bytes  dist/hls.light.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 18:35:09 +0000   220168 bytes  dist/hls.min.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 18:35:09 +0000     6339 bytes  lib/config.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 18:35:09 +0000    21392 bytes  lib/controller/abr-controller.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 18:35:09 +0000    40774 bytes  lib/controller/audio-stream-controller.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 18:35:09 +0000     8564 bytes  lib/controller/audio-track-controller.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 18:35:09 +0000    27050 bytes  lib/controller/buffer-controller.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 18:35:09 +0000     7109 bytes  lib/controller/cap-level-controller.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 18:35:09 +0000     6204 bytes  lib/controller/fps-controller.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 18:35:09 +0000    17483 bytes  lib/controller/level-controller.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 18:35:09 +0000    74404 bytes  lib/controller/stream-controller.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 18:35:09 +0000     7225 bytes  lib/controller/subtitle-stream-controller.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 18:35:09 +0000     8860 bytes  lib/controller/subtitle-track-controller.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 18:35:09 +0000    14411 bytes  lib/controller/timeline-controller.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 18:35:09 +0000     1198 bytes  lib/crypt/aes-crypto.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 18:35:09 +0000    10329 bytes  lib/crypt/aes-decryptor.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 18:35:09 +0000     4068 bytes  lib/crypt/decrypter.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 18:35:09 +0000     1222 bytes  lib/crypt/fast-aes-key.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 18:35:09 +0000     6196 bytes  lib/demux/aacdemuxer.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 18:35:09 +0000     5613 bytes  lib/demux/adts.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 18:35:09 +0000     7187 bytes  lib/demux/demuxer-inline.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 18:35:09 +0000     3601 bytes  lib/demux/demuxer-worker.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 18:35:09 +0000     7658 bytes  lib/demux/demuxer.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 18:35:09 +0000    12785 bytes  lib/demux/exp-golomb.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 18:35:09 +0000     5907 bytes  lib/demux/id3.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 18:35:09 +0000     9475 bytes  lib/demux/mp4demuxer.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 18:35:09 +0000     6411 bytes  lib/demux/sample-aes.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 18:35:09 +0000    46369 bytes  lib/demux/tsdemuxer.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 18:35:09 +0000     4406 bytes  lib/errors.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 18:35:09 +0000     6163 bytes  lib/event-handler.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 18:35:09 +0000     8541 bytes  lib/events.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 18:35:09 +0000     4079 bytes  lib/helper/aac.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 18:35:09 +0000     3260 bytes  lib/helper/buffer-helper.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 18:35:09 +0000     5231 bytes  lib/helper/level-helper.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 18:35:09 +0000    17027 bytes  lib/hls.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 18:35:09 +0000      239 bytes  lib/index.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 18:35:09 +0000     6618 bytes  lib/loader/fragment-loader.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 18:35:09 +0000     6511 bytes  lib/loader/key-loader.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 18:35:09 +0000    25698 bytes  lib/loader/playlist-loader.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-20 18:35:09 +0000     3047 bytes  lib/remux/dummy-remuxer.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-20 18:35:09 +0000    20431 bytes  lib/remux/mp4-generator.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-20 18:35:09 +0000    35134 bytes  lib/remux/mp4-remuxer.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-20 18:35:09 +0000     3278 bytes  lib/remux/passthrough-remuxer.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-20 18:35:09 +0000     3472 bytes  lib/utils/attr-list.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-20 18:35:09 +0000     1488 bytes  lib/utils/binary-search.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-20 18:35:09 +0000    46065 bytes  lib/utils/cea-608-parser.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-20 18:35:09 +0000     1815 bytes  lib/utils/cues.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-20 18:35:09 +0000     6305 bytes  lib/utils/ewma-bandwidth-estimator.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-20 18:35:09 +0000     2034 bytes  lib/utils/ewma.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-20 18:35:09 +0000     3312 bytes  lib/utils/fetch-loader.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-20 18:35:09 +0000      328 bytes  lib/utils/hex.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-20 18:35:09 +0000     2343 bytes  lib/utils/logger.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-20 18:35:09 +0000      322 bytes  lib/utils/timeRanges.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-20 18:35:09 +0000     7969 bytes  lib/utils/vttcue.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-20 18:35:09 +0000    13401 bytes  lib/utils/vttparser.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-20 18:35:09 +0000     6006 bytes  lib/utils/webvtt-parser.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-20 18:35:09 +0000     7612 bytes  lib/utils/xhr-loader.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-20 18:35:09 +0000     3313 bytes  package.json</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-20 18:35:09 +0000      730 bytes  scripts/travis.sh</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-20 18:35:09 +0000     5967 bytes  src/config.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-20 18:35:09 +0000    15853 bytes  src/controller/abr-controller.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-20 18:35:09 +0000    33625 bytes  src/controller/audio-stream-controller.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-20 18:35:09 +0000     4564 bytes  src/controller/audio-track-controller.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-20 18:35:09 +0000    21114 bytes  src/controller/buffer-controller.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-20 18:35:09 +0000     3338 bytes  src/controller/cap-level-controller.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-20 18:35:09 +0000     2816 bytes  src/controller/fps-controller.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-20 18:35:09 +0000    12626 bytes  src/controller/level-controller.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-20 18:35:09 +0000    64351 bytes  src/controller/stream-controller.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-20 18:35:09 +0000     3308 bytes  src/controller/subtitle-stream-controller.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-20 18:35:09 +0000     4798 bytes  src/controller/subtitle-track-controller.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-20 18:35:09 +0000    10097 bytes  src/controller/timeline-controller.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-20 18:35:09 +0000      219 bytes  src/crypt/aes-crypto.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-20 18:35:09 +0000     8613 bytes  src/crypt/aes-decryptor.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-20 18:35:09 +0000     2539 bytes  src/crypt/decrypter.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-20 18:35:09 +0000      249 bytes  src/crypt/fast-aes-key.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-20 18:35:09 +0000     3662 bytes  src/demux/aacdemuxer.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-20 18:35:09 +0000     5688 bytes  src/demux/adts.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-20 18:35:09 +0000     4288 bytes  src/demux/demuxer-inline.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-20 18:35:09 +0000     2750 bytes  src/demux/demuxer-worker.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-20 18:35:09 +0000     5489 bytes  src/demux/demuxer.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-20 18:35:09 +0000     9290 bytes  src/demux/exp-golomb.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-20 18:35:09 +0000     3882 bytes  src/demux/id3.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-20 18:35:09 +0000     6731 bytes  src/demux/mp4demuxer.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-20 18:35:09 +0000     3650 bytes  src/demux/sample-aes.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-20 18:35:09 +0000    36800 bytes  src/demux/tsdemuxer.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-20 18:35:09 +0000     4303 bytes  src/errors.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-20 18:35:09 +0000     1963 bytes  src/event-handler.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-20 18:35:09 +0000     8527 bytes  src/events.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-20 18:35:09 +0000     2873 bytes  src/helper/aac.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-20 18:35:09 +0000     3162 bytes  src/helper/buffer-helper.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-20 18:35:09 +0000     5078 bytes  src/helper/level-helper.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-20 18:35:09 +0000    12989 bytes  src/hls.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-20 18:35:09 +0000      225 bytes  src/index.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-20 18:35:09 +0000     2976 bytes  src/loader/fragment-loader.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-20 18:35:09 +0000     3011 bytes  src/loader/key-loader.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-20 18:35:09 +0000    19546 bytes  src/loader/playlist-loader.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-20 18:35:09 +0000     1625 bytes  src/remux/dummy-remuxer.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-20 18:35:09 +0000    19965 bytes  src/remux/mp4-generator.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-20 18:35:09 +0000    30110 bytes  src/remux/mp4-remuxer.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-20 18:35:09 +0000      798 bytes  src/remux/passthrough-remuxer.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-20 18:35:09 +0000     2085 bytes  src/utils/attr-list.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-20 18:35:09 +0000     1513 bytes  src/utils/binary-search.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-20 18:35:09 +0000    37567 bytes  src/utils/cea-608-parser.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-20 18:35:09 +0000     1882 bytes  src/utils/cues.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-20 18:35:09 +0000     1560 bytes  src/utils/ewma-bandwidth-estimator.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-20 18:35:09 +0000      968 bytes  src/utils/ewma.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-20 18:35:09 +0000     2171 bytes  src/utils/fetch-loader.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-20 18:35:09 +0000      300 bytes  src/utils/hex.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-20 18:35:09 +0000     1666 bytes  src/utils/logger.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-20 18:35:09 +0000      290 bytes  src/utils/timeRanges.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-20 18:35:09 +0000     7798 bytes  src/utils/vttcue.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-20 18:35:09 +0000    13057 bytes  src/utils/vttparser.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-20 18:35:09 +0000     5769 bytes  src/utils/webvtt-parser.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-20 18:35:09 +0000     4931 bytes  src/utils/xhr-loader.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-20 18:35:09 +0000     4326 bytes  tests/functional/auto/hlsjs.html</tspan>
+<tspan x="10" y="1978">122.  2017-04-20 18:35:09 +0000     6937 bytes  tests/functional/auto/hlsjs.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-20 18:35:09 +0000     2110 bytes  tests/functional/issues/617.html</tspan>
+<tspan x="10" y="2010">124.  2017-04-20 18:35:09 +0000     1362 bytes  tests/functional/multiple/index.html</tspan>
+<tspan x="10" y="2026">125.  2017-04-20 18:35:09 +0000     1912 bytes  tests/functional/streams.json</tspan>
+<tspan x="10" y="2042">126.  2017-04-20 18:35:09 +0000     1105 bytes  tests/unit/controller/abr-controller.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-20 18:35:09 +0000     1861 bytes  tests/unit/controller/ewma-bandwidth-estimator.j\</tspan>
 <tspan x="10" y="2074">s</tspan>
-<tspan x="10" y="2090">128.  2017-04-20 18:34:01 +0000      187 bytes  tests/unit/dummy.js</tspan>
-<tspan x="10" y="2106">129.  2017-04-20 18:34:01 +0000      936 bytes  tests/unit/events.js</tspan>
-<tspan x="10" y="2122">130.  2017-04-20 18:34:01 +0000    29015 bytes  tests/unit/loader/playlist-loader.js</tspan>
-<tspan x="10" y="2138">131.  2017-04-20 18:34:01 +0000     6977 bytes  tests/unit/utils/attr-list.js</tspan>
-<tspan x="10" y="2154">132.  2017-04-20 18:34:01 +0000     1068 bytes  tests/unit/utils/binary-search.js</tspan>
+<tspan x="10" y="2090">128.  2017-04-20 18:35:09 +0000      187 bytes  tests/unit/dummy.js</tspan>
+<tspan x="10" y="2106">129.  2017-04-20 18:35:09 +0000      936 bytes  tests/unit/events.js</tspan>
+<tspan x="10" y="2122">130.  2017-04-20 18:35:09 +0000    29015 bytes  tests/unit/loader/playlist-loader.js</tspan>
+<tspan x="10" y="2138">131.  2017-04-20 18:35:09 +0000     6977 bytes  tests/unit/utils/attr-list.js</tspan>
+<tspan x="10" y="2154">132.  2017-04-20 18:35:09 +0000     1068 bytes  tests/unit/utils/binary-search.js</tspan>
 </text>
 </svg>
